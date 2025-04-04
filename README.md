@@ -1,5 +1,5 @@
 
-<h1 align='center'> 🚀 ¡Hola! Soy Freddy Eduardo Riscanevo👨‍🏫👨‍💻🚀</h1>
+<h1 align='center'> 🚀 ¡Hola! Soy Freddy Eduardo Riscanevo👨‍💻🚀</h1>
 
 
 <div id="header" align="center">
