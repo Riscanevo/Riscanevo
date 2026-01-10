@@ -1,6 +1,9 @@
-
-<h1 align='center'> 🚀 ¡Hola! Soy Freddy Eduardo Riscanevo👨‍💻🚀</h1>
-
+<div align="center">
+  <h1 style="margin: 0;">🚀 ¡Hola! Soy Freddy Eduardo Riscanevo 🚀</h1>
+  <h3 style="margin-top: 6px; font-weight: normal;">
+    Desarrollador Full Stack JR 👨‍💻
+  </h3>
+</div>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
