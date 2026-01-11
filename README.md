@@ -70,7 +70,23 @@ Bases de Datos: MYSQL, POSTGRESQL.
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
-  </a>
+  </a> 
+
+  
+  ## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Riscanevo&show_icons=true&hide_border=true&theme=radical"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Riscanevo&layout=compact&langs_count=8&theme=radical"
+    height="160"
+  />
+</p>
+
+
 
 <!-- ANIMACIÓN SERPIENTE -->
 <div align="center">
