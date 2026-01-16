@@ -33,7 +33,7 @@
     width="23px"
     style="vertical-align: middle; margin-right: 6px;"
   />
-  Acerca de mí.
+  Acerca de mí
 </h2>
 
   
