@@ -44,7 +44,7 @@ Diseño de soluciones escalables bajo modelos de MVC y Microservicios, gestión 
 Mi objetivo es seguir creciendo como desarrollador, creando soluciones innovadoras, eficientes y de alta calidad. ¡Siempre abierto a colaborar y aprender de otros desarrolladores!
 
  Aquí encontrarás información sobre mi, mis habilidades y mis proyectos. Si deseas saber más sobre mí, no dudes en contactarme.
-Habilidades en HTML, CSS, JavasCript, Python, Java, C++, python, php, Git, GitHub, Figma, SQL , MYSQL, POSTGRESQL , etc.
+Habilidades en HTML, CSS, JavasCript, Python, Java, C++, python, PHP / LARAVEL, Git, GitHub, Figma, SQL , MYSQL, POSTGRESQL , etc.
 
 Bases de Datos: MYSQL, POSTGRESQL.
 
