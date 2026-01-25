@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 style="margin: 0;"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  ¡Hola! Soy Freddy Eduardo Riscanevo  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </h1>
+  <h1 style="margin: 0;">  ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ Soy Freddy Eduardo Riscanevo   </h1>
   <h3 style="margin-top: 6px; font-weight: normal;">
     Desarrollador Web
    
