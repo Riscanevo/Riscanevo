@@ -40,7 +40,6 @@
   
 Estudiante de Ingeniería de Software en la Universidad Fundación de Estudios Superiores Comfanorte (FESC), cursando actualmente 6.° semestre con un enfoque sólido en desarrollo Web Full Stack. Poseo experiencia técnica en la creación de interfaces modernas y dinámicas utilizando Angular, JavaScript, Tailwind CSS y Bootstrap, integradas con arquitecturas robustas en el Backend mediante Java , PHP (Laravel) y Python.
 Diseño de soluciones escalables bajo modelos de MVC y Microservicios, gestión de bases de datos relacionales (MySQL/PostgreSQL) y el desarrollo de APIs REST y servicios SOAP. El manejo de control de versiones con Git y trabajo colaborativo bajo metodologías ágiles (Scrum/Kanban). Me destaco por mi capacidad analítica, mi enfoque en la arquitectura de sistemas y el compromiso con la escritura de código limpio y mantenible.
-.
 
 Mi objetivo es seguir creciendo como desarrollador, creando soluciones innovadoras, eficientes y de alta calidad. ¡Siempre abierto a colaborar y aprender de otros desarrolladores!
 
